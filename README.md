@@ -22,7 +22,7 @@ Sign up at OpenWeatherMap
 Generate a free API key
 
 ## Run the Script:
-python weather.py
+python weather_app.py
 Enter a Location:
 Input the city and country (e.g., New York, US)
 Get the real-time weather details displayed in the terminal

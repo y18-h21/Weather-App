@@ -10,7 +10,7 @@ def get_weather(api_key, location):
         location (str): The location to get weather for (e.g., "London", "New York").
     """
 
-    base_url = "http://api.openweathermap.org/data/2.5/weather?q=Bengaluru,India&APPID=a9683b35dd79c621120a32eb0ec32d40"
+    base_url = " your openweathermap API key"
     params = {
         "q": location,
         "appid": api_key,
